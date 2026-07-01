@@ -1,0 +1,6 @@
+{
+  "name": "Affiliate Marketplace Indonesia",
+  "description": "Website directory affiliate produk terbesar di Indonesia dengan perbandingan harga cerdas, programmatic SEO, AI article generator, blog CMS, dan dashboard analitik lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
